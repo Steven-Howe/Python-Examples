@@ -45,7 +45,7 @@ def main():
 
     #prints authors name, class, and date
     print("Steven Howe")
-    print("CIS110 Program X")
+    print("CIS110 Program 5")
     #this function will print the current date and time using asctime()
     print(time.asctime(time.localtime(time.time())))
 
